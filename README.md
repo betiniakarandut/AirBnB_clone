@@ -6,4 +6,4 @@ Airbnb project repository handled in teams of two.
 - Team members: Samuel Iyeh and Betini Akarandut.
 
 # Authors
-Samuel Iyeh and Betini Akarandut
+[Samuel Iyeh](https://github.com/theSamuelIyeh) and [Betini Akarandut](https://github.com/betiniakarandut)
