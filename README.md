@@ -3,7 +3,8 @@
 </p>
 
 <h1 align="center">HolbertonBnB</h1>
-<p align="center">An AirBnB clone.</p>
+
+# An AirBnB clone
 
 ---
 
@@ -14,7 +15,7 @@ a back-end API, and front-end interfacing in a clone of AirBnB.
 
 The project currently only implements the back-end console.
 
-## Classes :sunglass:
+## Classes :pen:
 
 HolbertonBnB utilizes the following classes:
 
